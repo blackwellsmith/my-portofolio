@@ -9,7 +9,7 @@ export const Portfolio = () => {
             <p>The Lengendary Anti-Procrastinator is a project from my Flatiron portfolio.
                 This is a fun lister site that makes light of daily chores, encourages you to enjoy life, build lists, 
                 prioritize your tasks, and delete when finished!
-                Check out The Legendary Anti-Procrastinator is hosted on
+                Check out The Legendary Anti-Procrastinator it's hosted on
                 <a href="https://thelegendaryantiprocrastinator.herokuapp.com/"> Heroku.
                 </a> Here are my github repos for <a href="https://github.com/blackwellsmith/family_chores_frontend">JavaScript </a>
                 front end and <a href="https://github.com/blackwellsmith/family_chores_backend">Rails API</a> back end.
@@ -33,8 +33,8 @@ export const Portfolio = () => {
             <hr /> 
                 <p>I Heart Resto is my take on a restaurant review site.
                  Users can sign up or login through Facebook omniauth.
-                 Write short reviews no longer than 250 characters. This a github repo showcases
-                 <a href="https://github.com/blackwellsmith/i-heart-resto">Rails</a> as front end and back end. </p>   
+                 Write short reviews no longer than 250 characters. This github repo showcases
+                 <a href="https://github.com/blackwellsmith/i-heart-resto"> Rails</a> as front end and back end. </p>   
         </div>
     </div>   
     )

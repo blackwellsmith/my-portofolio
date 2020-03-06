@@ -7,7 +7,7 @@ export const About = () => {
             <hr/>
             <p>I am inspired by the technology of our time.
                The way it shapes our lives is undeniable.
-               I believe that many services are missing and the future is unwritten.
+               I believe that many services are have not been created yet and the future is unwritten.
                Becoming a part of something that improves and adds value to peoples lives or work, would be a great privilege.
                My years of customer service and business operations has lead me to a pretty simple philosophy.
                Customer satisfaction is the ultimate goal of any business.
