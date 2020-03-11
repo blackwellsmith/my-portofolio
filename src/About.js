@@ -9,7 +9,7 @@ export const About = () => {
                The way it shapes our lives is undeniable.
                I believe that many services have not been created yet and the future is unwritten.
                Becoming a part of something that improves and adds value to peoples lives or work, would be a great privilege. 
-               I possess strong skills in team-building, adaptability and problem solving, that help smaller companies be more agile and responsive.
+               I possess strong skills in team-building, adaptability and problem solving, that help businesses be more agile and responsive.
                My years of customer service and business operations have lead me to a pretty simple philosophy.
                Customer satisfaction is the ultimate goal of any business.
                Currently I am available for Software Developer positions in the Chattanooga area and would love to work remotely.
