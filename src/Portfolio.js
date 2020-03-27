@@ -11,7 +11,7 @@ export const Portfolio = () => {
                    A job journal for our ever changing world. Keep track of progress, jobs applied for, 
                    pertinent contacts can be sorted by name or by company, set goals and follow through. 
                    It’s  web and mobile friendly so you can use it any time! If someone you know is looking for work
-                   <a href="https://heard-journal.herokuapp.com/">Heard</a> can help!
+                   <a href="https://heard-journal.herokuapp.com/"> Heard</a> can help!
                    I wrote a post about Heard on <a href="https://dev.to/blackwellsmith/final-project-heard-1c55"> DEV</a> and recorded a
                    <a href="https://www.youtube.com/watch?v=fg4j0Z851Gk"> video walk through. </a>
                    Here are my github repos for the project <a href="https://github.com/blackwellsmith/jobhelper_frontend">React/Redux </a>
