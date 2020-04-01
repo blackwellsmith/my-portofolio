@@ -5,7 +5,7 @@ import { About } from "./About"
 import { Resume } from "./Resume"
 import { Portfolio } from "./Portfolio"
 import { NoMatch } from "./NoMatch"
-import { Footer } from "./Footer"
+//import { Footer } from "./Footer"
 //import 'bootstrap/dist/css/bootstrap.min.css';
 import { Layout } from "./Layout"
 import { Navigation } from "./NavBar"
@@ -16,7 +16,6 @@ function App() {
     <React.Fragment>
       <Navigation />
       <Jumbotron />
-      <Footer />
       <Layout>
         <Router>
           <Switch>
@@ -28,7 +27,6 @@ function App() {
           </Switch>
         </Router>
       </Layout>
-      
     </React.Fragment>
   );
 }
