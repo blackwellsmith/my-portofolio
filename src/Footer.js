@@ -2,10 +2,11 @@ import React from "react";
 
 const Footer = () => {
   return (
-      <div>
-        <footer>
-        </footer>
-      </div>
+    <footer class="footer">
+    <div class="container">
+      <span class="text-muted">Place sticky footer content here.</span>
+    </div>
+  </footer>
   );
 }
 
