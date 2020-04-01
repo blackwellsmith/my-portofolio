@@ -26,6 +26,7 @@ function App() {
           </Switch>
         </Router>
       </Layout>
+      <footer class="page-footer font-small blue pt-4"></footer>
     </React.Fragment>
   );
 }
