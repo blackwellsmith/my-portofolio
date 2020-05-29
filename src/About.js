@@ -15,7 +15,7 @@ export const About = () => {
                Currently I am available for Software Developer positions in the Chattanooga area and would love to work remotely.
                If you have a position available, interested in a website or just want to get a cup of coffee....</p>
             <p>Please reach out I would love to connect!</p>
-            <p>Send me an email <a HREF="mailto:blackwellsmithiv@gmail.com">here</a> or connect on LinkedIn</p>
+            <p>Send me an <a HREF="mailto:blackwellsmithiv@gmail.com">email</a> or connect on LinkedIn</p>
             <p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="blackwell-smith-iv-734414125"><a class="LI-simple-link" href='https://www.linkedin.com/in/blackwell-smith-iv-734414125?trk=profile-badge'>Blackwell Smith IV</a></div></p>
         </div>
     )
